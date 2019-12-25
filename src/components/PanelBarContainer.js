@@ -14,7 +14,7 @@ export const PanelBarContainer = () => (
             <span className="mate-info">
               <h2>{item.firstName + ' ' + item.lastName}</h2>
               <p>{item.position}</p>
-            </span>
+            </span> 
           </div>
         ))}
       </div>
